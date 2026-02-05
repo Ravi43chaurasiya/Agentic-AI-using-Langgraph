@@ -11,4 +11,7 @@ This repository contains my LangGraph learning notebooks and workflow implementa
 ### parallel workflow
 - Batsman workflow
 - UPSC essay workflow
+### conditional workflow
+- Quadratic equation workflow
+- review reply workflow
 
