@@ -17,4 +17,7 @@ This repository contains my LangGraph learning notebooks and workflow implementa
 ### iterative workflow
 - X post genrator
 
+### basic chatbot
+
+
 
