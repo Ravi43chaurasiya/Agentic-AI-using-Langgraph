@@ -19,5 +19,9 @@ This repository contains my LangGraph learning notebooks and workflow implementa
 
 ### basic chatbot
 
+### persistence
+
+### fault tolerance
+
 
 
